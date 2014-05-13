@@ -5,7 +5,7 @@
   "main": "node.js",
   "dependencies": {
     "ecc-jsbn": "0.0.x",
-    "sjcl": "1.0.x",
+    "sjcl": "git+https://github.com/rynomad/sjcl.git#atom",
     "node-forge": "0.2.x"
   },
   "optionalDependencies": {
